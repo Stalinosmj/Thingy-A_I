@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:thingy/home_page.dart';
+import 'package:thingy/screens/home_page.dart';
 
 void main() {
   runApp(const MyApp());
