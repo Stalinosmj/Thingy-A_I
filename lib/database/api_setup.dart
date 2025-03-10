@@ -4,5 +4,5 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 
 final model = GenerativeModel(
   model: 'gemini-pro-vision',
-  apiKey: "AIzaSyCnUR10TBa5WKPdX54WsgX_ojyf65S3nt8",
+  apiKey: "",
 );
